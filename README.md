@@ -1,0 +1,1 @@
+Add pointer arrays strings
